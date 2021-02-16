@@ -1,6 +1,6 @@
 # bug-report
 
-bug report记录格式：
+bug report记录在[Issues](https://github.com/Boltz-Technology/bug-report/issues)里，记录格式如下：
 
 1. 一句话描述
 2. 如何复现（尽量找到复现的方式）
